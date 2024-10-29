@@ -1,5 +1,10 @@
 [
    {
+      "event_title":"Pool",
+      "event_poster":"https://i.postimg.cc/4NqWPGft/20241021-114656.jpg",
+      "event_url":"http://37.27.111.214:8080/live/15/hls.m3u8"
+   },
+   {
       "event_title":"SOUTH AFRICA VS BANGLADESH",
       "event_poster":"https://i.postimg.cc/15Zs4k6m/20241021-113411.jpg",
       "event_url":"http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/167590.ts"
