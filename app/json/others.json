@@ -5,5 +5,10 @@
       "event_title":"BIG BOSS",
       "event_poster":"https://i.postimg.cc/h4bSDbrw/Bigg-Boss-16.jpg",
       "event_url":"http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/356533.ts"
+   },
+   {
+      "event_title":"Pool",
+      "event_poster":"https://i.postimg.cc/4NqWPGft/20241021-114656.jpg",
+      "event_url":"http://37.27.111.214:8080/live/15/hls.m3u8"
    }
 ]
