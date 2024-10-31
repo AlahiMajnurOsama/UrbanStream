@@ -5,6 +5,11 @@
         "channel_url": "http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/167586.ts"
     },
     {
+        "channel_name": "Sports18",
+        "channel_logo": "https://i.postimg.cc/4xLF6vQ1/1Sports.png",
+        "channel_url": "http://opplex.tv:8080/live/global/global/382205.m3u8"
+    },
+    {
         "channel_name": "Astro Cricket",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/PicsartAstro.png",
         "channel_url": "http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/167581.ts"
