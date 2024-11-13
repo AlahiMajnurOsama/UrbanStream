@@ -1,14 +1,234 @@
-
 [
-
    {
-      "event_title":"BIG BOSS",
-      "event_poster":"https://i.postimg.cc/h4bSDbrw/Bigg-Boss-16.jpg",
-      "event_url":"http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/356533.ts"
+      "event_title": "Independent TV (BDIX Supported)",
+      "event_url": "http://bapatv.live:8080/independent/index.m3u8"
    },
    {
-      "event_title":"Pool",
-      "event_poster":"https://i.postimg.cc/4NqWPGft/20241021-114656.jpg",
-      "event_url":"http://37.27.111.214:8080/live/15/hls.m3u8"
+      "event_title": "Masranga TV (BDIX Supported)",
+      "event_url": "http://103.175.242.10:8080/maasranga/index.m3u8"
+   },
+   {
+      "event_title": "Movie Bangla (BDIX Supported)",
+      "event_url": "http://bapatv.live:8080/moviebangla/index.m3u8"
+   },
+   {
+      "event_title": "Sony Aath (BDIX Supported)",
+      "event_url": "http://bapatv.live:8080/sonyaath/index.m3u8"
+   },
+   {
+      "event_title": "Colors HD (BDIX Supported)",
+      "event_url": "http://bapatv.live:8080/colorshd/index.m3u8"
+   },
+   {
+      "event_title": "Discovery (BDIX Supported)",
+      "event_url": "http://bapatv.live:8080/discovery/index.m3u8"
+   },
+   {
+      "event_title": "Zee Cinema (BDIX Supported)",
+      "event_url": "http://bapatv.live:8080/zeecinema/index.m3u8"
+   },
+   {
+      "event_title": "Star Plus (BDIX Supported)",
+      "event_url": "http://bapatv.live:8080/starplus/index.m3u8"
+   },
+   {
+      "event_title": "Channel i (BDIX Supported)",
+      "event_url": "http://bapatv.live:8080/channeli/index.m3u8"
+   },
+   {
+      "event_title": "Bein Sports 1 (BDIX Supported)",
+      "event_url": "http://bapatv.live:8080/hls/beinsp-1/index.m3u8"
+   },
+   {
+      "event_title": "Cartoon Network (BDIX Supported)",
+      "event_url": "http://103.175.242.10:8080/cartoonnetwork/index.m3u8"
+   },
+   {
+      "event_title": "9XM (BDIX Supported)",
+      "event_url": "http://103.175.242.10:8080/9xm/index.m3u8"
+   },
+   {
+      "event_title": "& Pictures (BDIX Supported)",
+      "event_url": "http://bapatv.live:8080/andpicture/index.m3u8"
+   },
+   {
+      "event_title": "Asian TV (BDIX Supported)",
+      "event_url": "http://103.175.242.10:8080/hls/asian/index.m3u8"
+   },
+   {
+      "event_title": "ATN Bangla (BDIX Supported)",
+      "event_url": "http://bapatv.live:8080/atnbangla/index.m3u8"
+   },
+   {
+      "event_title": "ATN News (BDIX Supported)",
+      "event_url": "http://bapatv.live:8080/atnnews/index.m3u8"
+   },
+   {
+      "event_title": "Bangla Vision (BDIX Supported)",
+      "event_url": "http://103.175.242.10:8080/banglavision/index.m3u8"
+   },
+   {
+      "event_title": "Bijoy TV (BDIX Supported)",
+      "event_url": "http://103.175.242.10:8080/hls/bijoy/index.m3u8"
+   },
+   {
+      "event_title": "Boishakhi TV (BDIX Supported)",
+      "event_url": "http://bapatv.live:8080/hls/boishakhi/index.m3u8"
+   },
+   {
+      "event_title": "BTV (BDIX Supported)",
+      "event_url": "http://103.175.242.10:8080/hls/btv/index.m3u8"
+   },
+   {
+      "event_title": "Channel 24 (BDIX Supported)",
+      "event_url": "http://bapatv.live:8080/hls/channel24/index.m3u8"
+   },
+   {
+      "event_title": "DBC News (BDIX Supported)",
+      "event_url": "http://bapatv.live:8080/dbc/index.m3u8"
+   },
+   {
+      "event_title": "Deepto TV (BDIX Supported)",
+      "event_url": "http://103.175.242.10:8080/deepto/index.m3u8"
+   },
+   {
+      "event_title": "Discovery Kids (BDIX Supported)",
+      "event_url": "http://103.175.242.10:8080/discoverkids/index.m3u8"
+   },
+   {
+      "event_title": "Dubai TV (BDIX Supported)",
+      "event_url": "http://bapatv.live:8080/ch-dubai/index.m3u8"
+   },
+   {
+      "event_title": "Ekattor TV (BDIX Supported)",
+      "event_url": "http://bapatv.live:8080/ekattor/index.m3u8"
+   },
+   {
+      "event_title": "Fox Cricket (BDIX Supported)",
+      "event_url": "http://bapatv.live:8080/foxcricekt/index.m3u8"
+   },
+   {
+      "event_title": "Gaan Bangla (BDIX Supported)",
+      "event_url": "http://103.175.242.10:8080/gaanbangla/index.m3u8"
+   },
+   {
+      "event_title": "Global TV (BDIX Supported)",
+      "event_url": "http://103.175.242.10:8080/hls/globaltv/index.m3u8"
+   },
+   {
+      "event_title": "GTV (BDIX Supported)",
+      "event_url": "http://bapatv.live:8080/gtv/index.m3u8"
+   },
+   {
+      "event_title": "GTV 2 (BDIX Supported)",
+      "event_url": "http://bapatv.live:8080/gtv2/index.m3u8"
+   },
+   {
+      "event_title": "Jalsha Movies (BDIX Supported)",
+      "event_url": "http://bapatv.live:8080/jalshamovies/index.m3u8"
+   },
+   {
+      "event_title": "Jamuna TV (BDIX Supported)",
+      "event_url": "http://103.175.242.10:8080/jamuna2/index.m3u8"
+   },
+   {
+      "event_title": "Kids Creation (BDIX Supported)",
+      "event_url": "http://103.175.242.10:8080/kidscreation/index.m3u8"
+   },
+   {
+      "event_title": "Live Sports (BDIX Supported)",
+      "event_url": "http://bapatv.live:8080/Live-sports/index.m3u8"
+   },
+   {
+      "event_title": "Movies Now (BDIX Supported)",
+      "event_url": "http://103.175.242.10:8080/moviesnow/index.m3u8"
+   },
+   {
+      "event_title": "Nat Geo (BDIX Supported)",
+      "event_url": "http://103.175.242.10:8080/natgeo/index.m3u8"
+   },
+   {
+      "event_title": "NTV (BDIX Supported)",
+      "event_url": "http://103.175.242.10:8080/ntv/index.m3u8"
+   },
+   {
+      "event_title": "RTV (BDIX Supported)",
+      "event_url": "http://103.175.242.10:8080/hls/rtv/index.m3u8"
+   },
+   {
+      "event_title": "S Football (BDIX Supported)",
+      "event_url": "http://bapatv.live:8080/sfootball/index.m3u8"
+   },
+   {
+      "event_title": "SA TV (BDIX Supported)",
+      "event_url": "http://103.175.242.10:8080/hls/satv/index.m3u8"
+   },
+   {
+      "event_title": "S Bangla (BDIX Supported)",
+      "event_url": "http://103.175.242.10:8080/sbangla/index.m3u8"
+   },
+   {
+      "event_title": "Sony Entertainment (BDIX Supported)",
+      "event_url": "http://103.175.242.10:8080/sonyent10/index.m3u8"
+   },
+   {
+      "event_title": "Sony Pix (BDIX Supported)",
+      "event_url": "http://103.175.242.10:8080/sonypix/index.m3u8"
+   },
+   {
+      "event_title": "Sony Ten 1 (BDIX Supported)",
+      "event_url": "http://bapatv.live:8080/sonyten1/index.m3u8"
+   },
+   {
+      "event_title": "Sony Ten 2 (BDIX Supported)",
+      "event_url": "http://bapatv.live:8080/sonyten2/index.m3u8"
+   },
+   {
+      "event_title": "Sony Ten 5 (BDIX Supported)",
+      "event_url": "http://bapatv.live:8080/sonyten5/index.m3u8"
+   },
+   {
+      "event_title": "Sports 18 (BDIX Supported)",
+      "event_url": "http://bapatv.live:8080/sports18/index.m3u8"
+   },
+   {
+      "event_title": "Star Gold Thrill (BDIX Supported)",
+      "event_url": "http://103.175.242.10:8080/stargoldthrill/index.m3u8"
+   },
+   {
+      "event_title": "Star Jalsha (BDIX Supported)",
+      "event_url": "http://103.175.242.10:8080/starjalsha/index.m3u8"
+   },
+   {
+      "event_title": "Star Movies (BDIX Supported)",
+      "event_url": "http://103.175.242.10:8080/starmovies/index.m3u8"
+   },
+   {
+      "event_title": "Star Sports 2 (BDIX Supported)",
+      "event_url": "http://bapatv.live:8080/starsports2/index.m3u8"
+   },
+   {
+      "event_title": "Star Sports 1 (BDIX Supported)",
+      "event_url": "http://bapatv.live:8080/starsports2/index.m3u8"
+   },
+   {
+      "event_title": "T Sports 1 (BDIX Supported)",
+      "event_url": "http://bapatv.live:8080/tsports1/index.m3u8"
+   },
+   {
+      "event_title": "T Sports 2 (BDIX Supported)",
+      "event_url": "http://bapatv.live:8080/tsports2/index.m3u8"
+   },
+   {
+      "event_title": "T Sports 4 (BDIX Supported)",
+      "event_url": "http://bapatv.live:8080/tsports4/index.m3u8"
+   },
+   {
+      "event_title": "Zee Bangla (BDIX Supported)",
+      "event_url": "http://bapatv.live:8080/zeebangla/index.m3u8"
+   },
+   {
+      "event_title": "Zee Bangla Cinema (BDIX Supported)",
+      "event_url": "http://103.175.242.10:8080/zee-bncinema/index.m3u8"
    }
 ]
