@@ -1,27 +1,21 @@
- [
-    {
-      "event_title": "Hurricanes vs Fireox Unit CC",
-      "event_poster": "https://www.fancode.com/skillup-uploads/cms-media/111801_4593_FCC_HUR_fc-web.jpg",
-      "event_url": "https://dai.google.com/linear/hls/event/0R1zdRfBTaujImYui1VMxA/master.m3u8"
-    },
-    {
-      "event_title": "Abu Dhabi vs Dubai",
-      "event_poster": "https://www.fancode.com/skillup-uploads/cms-media/111682_4589_ABD_DUB_fc-web.jpg",
-      "event_url": "https://dai.google.com/linear/hls/event/ta6aZGrwQCWb3-8J7aLnTQ/master.m3u8"
-    },
-    {
-      "event_title": "Guyana Harpy Eagles vs Barbados Pride",
-      "event_poster": "https://www.fancode.com/skillup-uploads/cms-media/112014_4596_GUY_BAR_fc-web.jpg",
-      "event_url": "https://dai.google.com/linear/hls/event/zWO-fmofTO2YPLOwG8mRMQ/master.m3u8"
-    },
-    {
-      "event_title": "Millwall vs Burnley",
-      "event_poster": "https://www.fancode.com/skillup-uploads/cms-media/109827_4352_MLW_BUR_fc-web.jpg",
-      "event_url": "https://dai.google.com/linear/hls/event/ErrZS73RQeSUc6R2mnHsLA/master.m3u8"
-    },
-    {
-      "event_title": "Race",
-      "event_poster": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "event_url": "https://dai.google.com/linear/hls/event/3SEWqh0RRMepUHIr_M6pGg/master.m3u8"
-    }
-  ]
+[
+   {
+      "event_title":"ENGLAND VS WEST INDIES",
+      "event_poster":"https://i.postimg.cc/zDCj0zZs/20241103-095323.jpg",
+      "event_url":"http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/206566.ts"
+   },
+
+   
+   {
+      "event_title":"INDIA VS SOUTH AFRICA",
+      "event_poster":"https://i.postimg.cc/xTpV1Dj4/20241103_103057.jpg",
+      "event_url":"http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/167590.ts"
+   },
+   
+   {
+      "event_title":"AUSTRALIA VS PAKISTAN",
+      "event_poster":"https://i.postimg.cc/pXDLmSjY/20241103-095916.jpg",
+      "event_url":"http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/206566.ts"
+   }
+   
+]
