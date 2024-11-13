@@ -233,5 +233,142 @@
         "channel_name": "Zee Bangla Cinema",
         "channel_logo": "https://static.wikia.nocookie.net/logopedia/images/f/f6/Zee_Bangla_Cinema_2022.png/revision/latest?cb=20230706222511",
         "channel_url": "http://103.175.242.10:8080/zee-bncinema/index.m3u8"
+    },
+
+
+
+
+
+
+    
+    {
+        "channel_name": "Independent TV",
+        "channel_logo": "N/A",
+        "channel_url": "http://bapatv.live:8080/independent/index.m3u8"
+    },
+    {
+        "channel_name": "Masranga TV",
+        "channel_logo": "N/A",
+        "channel_url": "http://103.175.242.10:8080/maasranga/index.m3u8"
+    },
+    {
+        "channel_name": "Movie Bangla",
+        "channel_logo": "N/A",
+        "channel_url": "http://bapatv.live:8080/moviebangla/index.m3u8"
+    },
+    {
+        "channel_name": "Sony Aath",
+        "channel_logo": "N/A",
+        "channel_url": "http://bapatv.live:8080/sonyaath/index.m3u8"
+    },
+    {
+        "channel_name": "Colors HD",
+        "channel_logo": "N/A",
+        "channel_url": "http://bapatv.live:8080/colorshd/index.m3u8"
+    },
+    {
+        "channel_name": "Discovery",
+        "channel_logo": "N/A",
+        "channel_url": "http://bapatv.live:8080/discovery/index.m3u8"
+    },
+    {
+        "channel_name": "Zee Cinema",
+        "channel_logo": "N/A",
+        "channel_url": "http://bapatv.live:8080/zeecinema/index.m3u8"
+    },
+    {
+        "channel_name": "Star Plus",
+        "channel_logo": "N/A",
+        "channel_url": "http://bapatv.live:8080/starplus/index.m3u8"
+    },
+    {
+        "channel_name": "Bein Sports 1",
+        "channel_logo": "N/A",
+        "channel_url": "http://bapatv.live:8080/hls/beinsp-1/index.m3u8"
+    },
+    {
+        "channel_name": "9XM",
+        "channel_logo": "N/A",
+        "channel_url": "http://103.175.242.10:8080/9xm/index.m3u8"
+    },
+    {
+        "channel_name": "& Pictures",
+        "channel_logo": "N/A",
+        "channel_url": "http://bapatv.live:8080/andpicture/index.m3u8"
+    },
+    {
+        "channel_name": "Fox Cricket",
+        "channel_logo": "N/A",
+        "channel_url": "http://bapatv.live:8080/foxcricekt/index.m3u8"
+    },
+    {
+        "channel_name": "GTV 2",
+        "channel_logo": "N/A",
+        "channel_url": "http://bapatv.live:8080/gtv2/index.m3u8"
+    },
+    {
+        "channel_name": "Jalsha Movies",
+        "channel_logo": "N/A",
+        "channel_url": "http://bapatv.live:8080/jalshamovies/index.m3u8"
+    },
+    {
+        "channel_name": "Live Sports",
+        "channel_logo": "N/A",
+        "channel_url": "http://bapatv.live:8080/Live-sports/index.m3u8"
+    },
+    {
+        "channel_name": "S Football",
+        "channel_logo": "N/A",
+        "channel_url": "http://bapatv.live:8080/sfootball/index.m3u8"
+    },
+    {
+        "channel_name": "Sony Ten 1",
+        "channel_logo": "N/A",
+        "channel_url": "http://bapatv.live:8080/sonyten1/index.m3u8"
+    },
+    {
+        "channel_name": "Sony Ten 2",
+        "channel_logo": "N/A",
+        "channel_url": "http://bapatv.live:8080/sonyten2/index.m3u8"
+    },
+    {
+        "channel_name": "Sony Ten 5",
+        "channel_logo": "N/A",
+        "channel_url": "http://bapatv.live:8080/sonyten5/index.m3u8"
+    },
+    {
+        "channel_name": "Sports 18",
+        "channel_logo": "N/A",
+        "channel_url": "http://bapatv.live:8080/sports18/index.m3u8"
+    },
+    {
+        "channel_name": "Star Sports 2",
+        "channel_logo": "N/A",
+        "channel_url": "http://bapatv.live:8080/starsports2/index.m3u8"
+    },
+    {
+        "channel_name": "Star Sports 1",
+        "channel_logo": "N/A",
+        "channel_url": "http://bapatv.live:8080/starsports2/index.m3u8"
+    },
+    {
+        "channel_name": "T Sports 1",
+        "channel_logo": "N/A",
+        "channel_url": "http://bapatv.live:8080/tsports1/index.m3u8"
+    },
+    {
+        "channel_name": "T Sports 2",
+        "channel_logo": "N/A",
+        "channel_url": "http://bapatv.live:8080/tsports2/index.m3u8"
+    },
+    {
+        "channel_name": "T Sports 4",
+        "channel_logo": "N/A",
+        "channel_url": "http://bapatv.live:8080/tsports4/index.m3u8"
+    },
+    {
+        "channel_name": "Zee Bangla",
+        "channel_logo": "N/A",
+        "channel_url": "http://bapatv.live:8080/zeebangla/index.m3u8"
     }
 ]
