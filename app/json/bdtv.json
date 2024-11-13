@@ -1,178 +1,177 @@
 [
     {
-        "channel_name": "Animal Planet (BDIx)",
+        "channel_name": "Animal Planet",
         "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD.png",
         "channel_url": "https://freedishbhai.vercel.app/Animal_Planet.m3u8"
     },
     {
-        "channel_name": "Asian TV (BDIx)",
+        "channel_name": "Asian TV",
         "channel_logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRhM81hb0BDME4iu5i3eNYtHXZoO2xRwudHHV3CVPPy7zdc5KH92Ugmvc8tnhOkDBux3bx1HGfSAAejgJLfMoq3NzYWR6OaptMxTY0XzZNMNxXRG-pkJ19sdoTYkzw5r_7NFDHicSA7DIX/s1600/asian-tv.jpg",
         "channel_url": "http://103.175.242.10:8080/hls/asian/index.m3u8"
     },
     {
-        "channel_name": "ATN Bangla (BDIx)",
+        "channel_name": "ATN Bangla",
         "channel_logo": "https://logowik.com/content/uploads/images/atn-bangla2574.logowik.com.webp",
         "channel_url": "http://bapatv.live:8080/atnbangla/index.m3u8"
     },
     {
-        "channel_name": "ATN News (BDIx)",
+        "channel_name": "ATN News",
         "channel_logo": "https://i.postimg.cc/fy3VKVXH/atn.png",
         "channel_url": "http://bapatv.live:8080/atnnews/index.m3u8"
     },
     {
-        "channel_name": "Banglavision (BDIx)",
+        "channel_name": "Banglavision",
         "channel_logo": "https://i.postimg.cc/yYZJ3S7x/bangla-vision-bd.png",
         "channel_url": "http://103.175.242.10:8080/banglavision/index.m3u8"
     },
     {
-        "channel_name": "Bijoy TV (BDIx)",
+        "channel_name": "Bijoy TV",
         "channel_logo": "https://i.postimg.cc/T1ZpHTJT/bijoy-tv.webp",
         "channel_url": "http://103.175.242.10:8080/hls/bijoy/index.m3u8"
     },
     {
-        "channel_name": "Boishakhi Television (BDIx)",
+        "channel_name": "Boishakhi Television",
         "channel_logo": "https://i.postimg.cc/t4dY2QZH/boishakhi.webp",
         "channel_url": "http://bapatv.live:8080/hls/boishakhi/index.m3u8"
     },
     {
-        "channel_name": "BTV (BDIx)",
+        "channel_name": "BTV",
         "channel_logo": "https://i.postimg.cc/YSpjPnYL/btv.webp",
         "channel_url": "http://103.175.242.10:8080/hls/btv/index.m3u8"
     },
     {
-        "channel_name": "Channel 24 (BDIx)",
+        "channel_name": "Channel 24",
         "channel_logo": "https://i.postimg.cc/s2w1CY46/channel-24.png",
         "channel_url": "http://bapatv.live:8080/hls/channel24/index.m3u8"
     },
     {
-        "channel_name": "Channel i (BDIx)",
+        "channel_name": "Channel i",
         "channel_logo": "https://static.wikia.nocookie.net/logopedia/images/d/d0/ChanneliBD.png/revision/latest?cb=20200206105403",
         "channel_url": "http://bapatv.live:8080/channeli/index.m3u8"
     },
     {
-        "channel_name": "Colors HD (BDIx)",
+        "channel_name": "Colors HD",
         "channel_logo": "https://static.wikia.nocookie.net/logopedia/images/6/63/Colors_HD.svg/revision/latest?cb=20210207143514",
         "channel_url": "http://bapatv.live:8080/colorshd/index.m3u8"
     },
     {
-        "channel_name": "DBC News (BDIx)",
+        "channel_name": "DBC News",
         "channel_logo": "https://i.pinimg.com/originals/4a/a2/7e/4aa27ecf94ecb60290431ff1b3de6b8e.jpg",
         "channel_url": "http://bapatv.live:8080/dbc/index.m3u8"
     },
     {
-        "channel_name": "Deepto TV (BDIx)",
+        "channel_name": "Deepto TV",
         "channel_logo": "https://i.postimg.cc/7hTLzp8d/deepto-tv.png",
         "channel_url": "http://103.175.242.10:8080/deepto/index.m3u8"
     },
     {
-        "channel_name": "Discovery (BDIx)",
+        "channel_name": "Discovery",
         "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Discovery_Channel_English.png",
         "channel_url": "http://bapatv.live:8080/discovery/index.m3u8"
     },
     {
-        "channel_name": "Discovery Bengali (BDIx)",
+        "channel_name": "Discovery Bengali",
         "channel_logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOFLf39Qfvi_9CELaj2gcQpExtd9YCDzjef0IL2wwjLhUmTZEAOpvuBddUGK3kx67zwM2NGoIUR_SfXHQXpw-BsZa-rjNEFUQWIDPRJ-5LRok2oKSKex7iGmKoHK48ZwHjaaG4UALDwOLV/s280/dis.logo+final.02.png",
         "channel_url": "https://freedishbhai.vercel.app/Discovery_Bengali.m3u8"
     },
     {
-        "channel_name": "Discovery Hindi (BDIx)",
+        "channel_name": "Discovery Hindi",
         "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png",
         "channel_url": "https://freedishbhai.vercel.app/Discovery_Hindi.m3u8"
     },
     {
-        "channel_name": "Discovery Kids (BDIx)",
+        "channel_name": "Discovery Kids",
         "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Discovery_Kids_1.png",
         "channel_url": "https://freedishbhai.vercel.app/Discovery_Kids.m3u8"
     },
     {
-        "channel_name": "Discovery Science (BDIx)",
+        "channel_name": "Discovery Science",
         "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Discovery_Science.png",
         "channel_url": "https://freedishbhai.vercel.app/Discovery_Science.m3u8"
     },
     {
-        "channel_name": "Discovery Turbo (BDIx)",
+        "channel_name": "Discovery Turbo",
         "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Discovery_Turbo.png",
         "channel_url": "https://freedishbhai.vercel.app/Discovery_Turbo.m3u8"
     },
     {
-        "channel_name": "Ekattor TV (BDIx)",
+        "channel_name": "Ekattor TV",
         "channel_logo": "https://i.postimg.cc/wvcyZCpH/ekattor.jpg",
         "channel_url": "http://bapatv.live:8080/ekattor/index.m3u8"
     },
     {
-        "channel_name": "Food Network (BDIx)",
+        "channel_name": "Food Network",
         "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Food_Food.png",
         "channel_url": "https://freedishbhai.vercel.app/Food_Network.m3u8"
     },
     {
-        "channel_name": "Gaan Bangla (BDIx)",
+        "channel_name": "Gaan Bangla",
         "channel_logo": "https://i.postimg.cc/ZnbBSwbN/gb.jpg",
         "channel_url": "http://103.175.242.10:8080/gaanbangla/index.m3u8"
     },
     {
-        "channel_name": "GTV (BDIx)",
+        "channel_name": "GTV",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",
         "channel_url": "http://bapatv.live:8080/gtv/index.m3u8"
     },
     {
-        "channel_name": "HGTV (BDIx)",
+        "channel_name": "HGTV",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/400px-HGTV_2010.svg.png",
         "channel_url": "https://freedishbhai.vercel.app/HGTV.m3u8"
     },
     {
-        "channel_name": "Independent Television (BDIx)",
+        "channel_name": "Independent Television",
         "channel_logo": "https://i.postimg.cc/05nKf1n0/independent.jpg",
         "channel_url": "http://bapatv.live:8080/independent/index.m3u8"
     },
     {
-        "channel_name": "Investigation Discovery (BDIx)",
+        "channel_name": "Investigation Discovery",
         "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/250/-/ID.png",
         "channel_url": "https://freedishbhai.vercel.app/Investigation_Discovery.m3u8"
     },
     {
-        "channel_name": "Jamuna Television (BDIx1)",
+        "channel_name": "Jamuna Television",
         "channel_logo": "https://i.postimg.cc/ZKdvNGHZ/jamuna.png",
         "channel_url": "http://103.175.242.10:8080/jamuna2/index.m3u8"
     },
     {
-        "channel_name": "Jamuna Television (BDIx2)",
+        "channel_name": "Jamuna Television",
         "channel_logo": "https://i.postimg.cc/ZKdvNGHZ/jamuna.png",
         "channel_url": "http://103.175.242.10:8080/jamuna2/index.m3u8"
     },
     {
-        "channel_name": "Maasranga Television (BDIx1)",
+        "channel_name": "Maasranga Television",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",
         "channel_url": "http://103.175.242.10:8080/maasranga/index.m3u8"
     },
     {
-        "channel_name": "Masranga TV (BDIx1)",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/bn/5/59/%E0%A6%AE%E0%A6%BE%E0%A6%9B%E0%A6%B0%E0%A6%BE%E0%A6%99%E0%A6%BE_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A6%BE.png?20220511170310",
+        "channel_name": "Masranga TV",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/bn/5/59/%E0%A6%AE%E0%A6%BE%E0%A6%9B%E0%A6%B0%E0%A6%BE%E0%A6%99%E0%A6%BE_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png?20220511170310",
         "channel_url": "http://103.175.242.10:8080/maasranga/index.m3u8"
     },
     {
-        "channel_name": "Movie Bangla (BDIx1)",
+        "channel_name": "Movie Bangla",
         "channel_logo": "https://yt3.ggpht.com/ytc/AAUvwngTKQDhLgy2m5yX3PRqIxFs9B-4Ia0bwC7ajrgx=s900-c-k-c0x00ffffff-no-rj",
         "channel_url": "http://bapatv.live:8080/moviebangla/index.m3u8"
     },
     {
-        "channel_name": "Sony Aath (BDIx1)",
+        "channel_name": "Sony Aath",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Sony_Aath_new.png/300px-Sony_Aath_new.png",
         "channel_url": "http://bapatv.live:8080/sonyaath/index.m3u8"
     },
     {
-        "channel_name": "Star Plus (BDIx1)",
+        "channel_name": "Star Plus",
         "channel_logo": "https://static.wikia.nocookie.net/logopedia/images/3/32/StarPlus_logo_%282018%29.png/revision/latest?cb=20201128160713",
         "channel_url": "http://bapatv.live:8080/starplus/index.m3u8"
     },
     {
-        "channel_name": "Zee Cinema (BDIx1)",
+        "channel_name": "Zee Cinema",
         "channel_logo": "https://w7.pngwing.com/pngs/878/103/png-transparent-zee-cinema-television-channel-zee-tv-zee-entertainment-enterprises-cinema-logo-television-text-bollywood-thumbnail.png",
         "channel_url": "http://bapatv.live:8080/zeecinema/index.m3u8"
     }
-]
 
 
-[
+
 
     {
 
@@ -544,4 +543,4 @@
 
     }
 
-]
+    ]
