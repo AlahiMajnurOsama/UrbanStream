@@ -41,7 +41,7 @@
     },
     {
         "channel_name": "Channel i",
-        "channel_logo": "https://i.postimg.cc/Bbm8Q2bV/channel-i.jpg",
+        "channel_logo": "https://static.wikia.nocookie.net/logopedia/images/d/d0/ChanneliBD.png/revision/latest?cb=20200206105403",
         "channel_url": "http://bapatv.live:8080/channeli/index.m3u8"
     },
     {
@@ -53,6 +53,61 @@
         "channel_name": "Deepto TV",
         "channel_logo": "https://i.postimg.cc/7hTLzp8d/deepto-tv.png",
         "channel_url": "http://103.175.242.10:8080/deepto/index.m3u8"
+    },
+    {
+        "channel_name": "Discovery Bengali",
+        "channel_logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOFLf39Qfvi_9CELaj2gcQpExtd9YCDzjef0IL2wwjLhUmTZEAOpvuBddUGK3kx67zwM2NGoIUR_SfXHQXpw-BsZa-rjNEFUQWIDPRJ-5LRok2oKSKex7iGmKoHK48ZwHjaaG4UALDwOLV/s280/dis.logo+final.02.png",
+        "channel_url": "https://freedishbhai.vercel.app/Discovery_Bengali.m3u8"
+    },
+    {
+        "channel_name": "Discovery Hindi",
+        "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png",
+        "channel_url": "https://freedishbhai.vercel.app/Discovery_Hindi.m3u8"
+    },
+    {
+        "channel_name": "Animal Planet",
+        "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD.png",
+        "channel_url": "https://freedishbhai.vercel.app/Animal_Planet.m3u8"
+    },
+    {
+        "channel_name": "Discovery Turbo",
+        "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Discovery_Turbo.png",
+        "channel_url": "https://freedishbhai.vercel.app/Discovery_Turbo.m3u8"
+    },
+    {
+        "channel_name": "Discovery Kids",
+        "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Discovery_Kids_1.png",
+        "channel_url": "https://freedishbhai.vercel.app/Discovery_Kids.m3u8"
+    },
+    {
+        "channel_name": "Discovery Science",
+        "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Discovery_Science.png",
+        "channel_url": "https://freedishbhai.vercel.app/Discovery_Science.m3u8"
+    },
+    {
+        "channel_name": "Investigation Discovery",
+        "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/250/-/ID.png",
+        "channel_url": "https://freedishbhai.vercel.app/Investigation_Discovery.m3u8"
+    },
+    {
+        "channel_name": "Food Network",
+        "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Food_Food.png",
+        "channel_url": "https://freedishbhai.vercel.app/Food_Network.m3u8"
+    },
+    {
+        "channel_name": "HGTV",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/400px-HGTV_2010.svg.png",
+        "channel_url": "https://freedishbhai.vercel.app/HGTV.m3u8"
+    },
+    {
+        "channel_name": "TLC",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png?20190129185655",
+        "channel_url": "https://freedishbhai.vercel.app/TLC.m3u8"
+    },
+    {
+        "channel_name": "TRVL",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/200px-2018_Travel_Channel_logo.svg.png?20220816010452",
+        "channel_url": "https://freedishbhai.vercel.app/TRVL.m3u8"
     },
     {
         "channel_name": "Ekattor TV",
@@ -85,14 +140,74 @@
         "channel_url": "http://103.175.242.10:8080/maasranga/index.m3u8"
     },
     {
-        "channel_name": "NTV",
-        "channel_logo": "https://i.postimg.cc/FHx01Jxc/ntv.png",
-        "channel_url": "http://103.175.242.10:8080/ntv/index.m3u8"
+        "channel_name": "Masranga TV",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/bn/5/59/%E0%A6%AE%E0%A6%BE%E0%A6%9B%E0%A6%B0%E0%A6%BE%E0%A6%99%E0%A6%BE_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png?20220511170310",
+        "channel_url": "http://103.175.242.10:8080/maasranga/index.m3u8"
     },
     {
-        "channel_name": "RTV",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png",
-        "channel_url": "http://103.175.242.10:8080/hls/rtv/index.m3u8"
+        "channel_name": "Movie Bangla",
+        "channel_logo": "https://yt3.ggpht.com/ytc/AAUvwngTKQDhLgy2m5yX3PRqIxFs9B-4Ia0bwC7ajrgx=s900-c-k-c0x00ffffff-no-rj",
+        "channel_url": "http://bapatv.live:8080/moviebangla/index.m3u8"
+    },
+    {
+        "channel_name": "Sony Aath",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Sony_Aath_new.png/300px-Sony_Aath_new.png",
+        "channel_url": "http://bapatv.live:8080/sonyaath/index.m3u8"
+    },
+    {
+        "channel_name": "Colors HD",
+        "channel_logo": "https://static.wikia.nocookie.net/logopedia/images/6/63/Colors_HD.svg/revision/latest?cb=20210207143514",
+        "channel_url": "http://bapatv.live:8080/colorshd/index.m3u8"
+    },
+    {
+        "channel_name": "Discovery",
+        "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Discovery_Channel_English.png",
+        "channel_url": "http://bapatv.live:8080/discovery/index.m3u8"
+    },
+    {
+        "channel_name": "Zee Cinema",
+        "channel_logo": "https://w7.pngwing.com/pngs/878/103/png-transparent-zee-cinema-television-channel-zee-tv-zee-entertainment-enterprises-cinema-logo-television-text-bollywood-thumbnail.png",
+        "channel_url": "http://bapatv.live:8080/zeecinema/index.m3u8"
+    },
+    {
+        "channel_name": "Star Plus",
+        "channel_logo": "https://static.wikia.nocookie.net/logopedia/images/3/32/StarPlus_logo_%282018%29.png/revision/latest?cb=20201128160713",
+        "channel_url": "http://bapatv.live:8080/starplus/index.m3u8"
+    },
+    {
+        "channel_name": "Bein Sports 1",
+        "channel_logo": "https://seeklogo.com/images/B/bein-sports-logo-CA2451A672-seeklogo.com.png",
+        "channel_url": "http://bapatv.live:8080/hls/beinsp-1/index.m3u8"
+    },
+    {
+        "channel_name": "Cartoon Network",
+        "channel_logo": "https://banner2.cleanpng.com/20180402/wle/avhei1ytl.webp",
+        "channel_url": "http://103.175.242.10:8080/cartoonnetwork/index.m3u8"
+    },
+    {
+        "channel_name": "9XM",
+        "channel_logo": "https://static.wikia.nocookie.net/logopedia/images/8/81/9xm_red.svg/revision/latest?cb=20210508163434",
+        "channel_url": "http://103.175.242.10:8080/9xm/index.m3u8"
+    },
+    {
+        "channel_name": "& Pictures",
+        "channel_logo": "https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest?cb=20231217022312",
+        "channel_url": "http://bapatv.live:8080/andpicture/index.m3u8"
+    },
+    {
+        "channel_name": "Independent TV (backup)",
+        "channel_logo": "https://image.pixahunt.com/graphics/long/Pixahunt-01cdf8038996fa574102e0e62e85600a.webp",
+        "channel_url": "http://bapatv.live:8080/independent/index.m3u8"
+    },
+    {
+        "channel_name": "Channel i (backup)",
+        "channel_logo": "https://static.wikia.nocookie.net/logopedia/images/d/d0/ChanneliBD.png/revision/latest?cb=20200206105403",
+        "channel_url": "http://bapatv.live:8080/channeli/index.m3u8"
+    },
+    {
+        "channel_name": "S Football",
+        "channel_logo": "https://img.freepik.com/premium-vector/football-logo-letter-s-with-moving-football-icon-soccer-logo-template_754537-4951.jpg?w=1060",
+        "channel_url": "http://bapatv.live:8080/sfootball/index.m3u8"
     },
     {
         "channel_name": "SA TV",
@@ -100,8 +215,23 @@
         "channel_url": "http://103.175.242.10:8080/hls/satv/index.m3u8"
     },
     {
+        "channel_name": "RTV",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png",
+        "channel_url": "http://103.175.242.10:8080/hls/rtv/index.m3u8"
+    },
+    {
         "channel_name": "T Sports",
         "channel_logo": "https://i.postimg.cc/fLK4Xh7L/download-1.jpg",
         "channel_url": "http://bapatv.live:8080/tsports1/index.m3u8"
+    },
+    {
+        "channel_name": "Zee Bangla",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png",
+        "channel_url": "http://bapatv.live:8080/zeebangla/index.m3u8"
+    },
+    {
+        "channel_name": "Zee Bangla Cinema",
+        "channel_logo": "https://static.wikia.nocookie.net/logopedia/images/f/f6/Zee_Bangla_Cinema_2022.png/revision/latest?cb=20230706222511",
+        "channel_url": "http://103.175.242.10:8080/zee-bncinema/index.m3u8"
     }
 ]
