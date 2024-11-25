@@ -318,7 +318,16 @@
         "channel_url": "http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/245920.ts"
 
     },
+ {
 
+        "channel_name": "Me TV (Bangladeshi TV channel)",
+
+        "channel_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmRBah-RJqkK8BhzcKVEeAYl_klNegyTQjWCo20JcKwO1DDjAHozZLQsA&s=10",
+
+        "channel_url": "https://iptvbd.live/metv1080/1080.m3u8"
+
+    },
+    
     {
 
         "channel_name": "My TV (Bangladeshi TV channel)",
