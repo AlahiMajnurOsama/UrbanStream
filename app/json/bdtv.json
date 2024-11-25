@@ -93,6 +93,15 @@
         "channel_url": "http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/245930.ts"
 
     },
+    {
+
+        "channel_name": "BTV World",
+
+        "channel_logo": "https://i.imgur.com/eJS0vGk.jpg",
+
+        "channel_url": "http://tv.cloudcdn.me:80/live.ts?channelId=49341&uid=14505&deviceMac=00:1A:79:A7:53:75"
+
+    },
 
     {
 
@@ -140,17 +149,17 @@
 
         "channel_logo": "https://i.postimg.cc/7hTLzp8d/deepto-tv.png",
 
-        "channel_url": "http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/245927.ts"
+        "channel_url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8?sessId=2714235"
 
     },
 
     {
 
-        "channel_name": "Desh TV",
+        "channel_name": "Deshi TV",
 
-        "channel_logo": "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/445e8f169798121.656c3babe5ae3.jpg",
+        "channel_logo": "https://www.jagobd.com/wp-content/uploads/2024/09/desitv.png",
 
-        "channel_url": "http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/245913.ts"
+        "channel_url": "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8"
 
     },
     {
@@ -318,6 +327,15 @@
         "channel_url": "http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/245920.ts"
 
     },
+    {
+
+        "channel_name": "Movie Bangla",
+
+        "channel_logo": "https://i.ibb.co/kMkJDdz/moviebanglatv-logo.png",
+
+        "channel_url": "http://alvetv.com/moviebanglatv/8080/index.m3u8"
+
+    },
  {
 
         "channel_name": "Me TV (Bangladeshi TV channel)",
@@ -340,6 +358,16 @@
 
     {
 
+        "channel_name": "Madani TV ",
+
+        "channel_logo": "https://i.imgur.com/vIJTVia.png",
+
+        "channel_url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8"
+
+    },
+
+    {
+
         "channel_name": "Nagorik (TV channel)",
 
         "channel_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Nagorik_TV_Logo.png/150px-Nagorik_TV_Logo.png",
@@ -347,6 +375,17 @@
         "channel_url": "http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/245939.ts"
 
     },
+
+    {
+
+        "channel_name": "NAN TV(TV channel)",
+
+        "channel_logo": "https://i.ibb.co/PMVC9Pj/NAN-TV-Logo-02.png",
+
+        "channel_url": "https://app.ncare.live/live-orgin/nantv.stream/playlist.m3u8"
+
+    },
+
 
     {
 
@@ -367,6 +406,26 @@
         "channel_url": "http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/245924.ts"
 
     },
+{
+
+        "channel_name": "Probashi TV",
+
+        "channel_logo": "https://i.imgur.com/Nbw3bKO.png",
+
+        "channel_url": "http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8"
+
+    },
+
+    
+    {
+
+        "channel_name": "Rongeen Tv",
+
+        "channel_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQtAVyVJk8sj70ajt8jBGwXhkgC2deyl1ArQ&s",
+
+        "channel_url": "https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8"
+
+    },
 
     {
 
@@ -377,6 +436,16 @@
         "channel_url": "http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/245911.ts"
 
     },
+{
+
+        "channel_name": "Rajdhani TV",
+
+        "channel_logo": "https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png",
+
+        "channel_url": "https://cdn.ncare.live/live-orgin/rajdhanitv.stream/chunks.m3u8"
+
+    },
+
 
     {
 
@@ -410,12 +479,13 @@
 
     {
 
-        "channel_name": "T Sports",
+        "channel_name": "Time Television ",
 
-        "channel_logo": "https://i.postimg.cc/fLK4Xh7L/download-1.jpg",
+        "channel_logo": "https://www.jagobd.com/wp-content/uploads/2016/02/timetv.jpg?x13834",
 
-        "channel_url": "http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/167590.ts"
+        "channel_url": "http://tv.cloudcdn.me:80/live.ts?channelId=118&uid=14505&deviceMac=00:1A:79:A7:53:75"
 
     }
+    
 
   ]
