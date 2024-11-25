@@ -60,15 +60,6 @@
         "channel_name": "Amrita TV (720p)",
         "channel_url": "https://dr1zhpsuem5f4.cloudfront.net/master.m3u8"
     },
-    {
-
-        "channel_name": "Ananda TV",
-
-        "channel_logo": "https://i.postimg.cc/vZJ4BY8b/ananda-tv.jpg",
-
-        "channel_url": "http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/245929.ts"
-
-    },
 
     {
         "channel_name": "B4U Music",
@@ -93,51 +84,23 @@
         "channel_url": "http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/104190.ts"
     },
     {
-        "channel_name": "Cartoon Network",
-        "channel_logo": "https://1000logos.net/wp-content/uploads/2021/05/Cartoon-Network-logo-768x432.png",
-        "channel_url": "http://119.156.26.155:8000/play/a05s/index.m3u8"
-    },
-    {
         "channel_name": "Colors Cineplex",
         "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png",
         "channel_url": "http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/104191.ts"
     },
-    {
-        "channel_name": "Colours Infinity",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Colors_Infinity_logo.png/360px-Colors_Infinity_logo.png",
-        "channel_url": "http://119.156.26.155:8000/play/a07h/index.m3u8"
-    },
      {
-        "channel_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt8a6AOQz7WWPorz6RuMX0wgx6oYT7fSI_LA&usqp=CAU",
-        "channel_name": "Colours Rishtey",
-        "channel_url": "http://119.156.26.155:8000/play/a070/index.m3u8"
+        "channel_logo": "https://i.postimg.cc/LspTDn6R/056bb4aa-a8a4-48d1-bad0-22b18089d22d.jpg",
+        "channel_name": "Desi Tv",
+        "channel_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/desi-tv/master.m3u8"
     },
-
-    {
-        "channel_name": "Discovery Kids (BDIx)",
-        "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Discovery_Kids_1.png",
-        "channel_url": "https://freedishbhai.vercel.app/Discovery_Kids.m3u8"
-    },
-    {
-        "channel_name": "Discovery Science (BDIx)",
-        "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Discovery_Science.png",
-        "channel_url": "https://freedishbhai.vercel.app/Discovery_Science.m3u8"
-    },
-    {
-        "channel_name": "Discovery Turbo (BDIx)",
-        "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Discovery_Turbo.png",
-        "channel_url": "https://freedishbhai.vercel.app/Discovery_Turbo.m3u8"
-    },
-
-    
     {
         "channel_logo": "https://i.postimg.cc/66MJpt5b/images-1.png",
-        "channel_name": "Discovery Bangla backup",
+        "channel_name": "Discovery Bangla",
         "channel_url": "https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8"
     },
 
     {
-        "channel_name": "Discovery Kids backup",
+        "channel_name": "Discovery Kids",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Discovery_Kids_Logo_2021-Presente.webp",
         "channel_url": "http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/76723.ts"
     },
@@ -158,11 +121,6 @@
         "channel_name": "Enter 10 Movies",
         "channel_logo": "https://static.wikia.nocookie.net/logopedia/images/f/f3/Enterr10_logo.png",
         "channel_url": "http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/104202.ts"
-    },
-    {
-        "channel_name": "Food Network ",
-        "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Food_Food.png",
-        "channel_url": "https://freedishbhai.vercel.app/Food_Network.m3u8"
     },
     {
         "channel_name": "Goldmines",
@@ -216,30 +174,11 @@
         "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Maha_Movies.png",
         "channel_url": "http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/104206.ts"
     },
-{
-        "channel_name": "Nick",
-        "channel_logo": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/91735fb9-c86d-439b-896c-b10632bd7fb6/dhfotfq-05ad4e6d-cf50-428b-9497-8024400ef7db.png/v1/fit/w_828,h_796/nick_logo_2024_splat_alternative__3_by_yihen07_dhfotfq-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTIyOSIsInBhdGgiOiJcL2ZcLzkxNzM1ZmI5LWM4NmQtNDM5Yi04OTZjLWIxMDYzMmJkN2ZiNlwvZGhmb3RmcS0wNWFkNGU2ZC1jZjUwLTQyOGItOTQ5Ny04MDI0NDAwZWY3ZGIucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.0gZjIzk50VlpqgJ63w2nRovo16VEGASdZ5EXH4s_nkE",
-        "channel_url": "http://119.156.26.155:8000/play/a05v/index.m3u8"
-    },
-    {
-        "channel_name": "Nick HD+",
-        "channel_logo": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d3f9829b-ddf8-4405-9230-e725cf9c74c9/dgfsoe1-ec85c9d1-daef-450f-8425-cb8e731c4d8f.png/v1/fit/w_828,h_408,q_70,strp/founded_this_on_nickelodeon_hd_plus_by_coolnaoisbacktoday_dgfsoe1-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc1IiwicGF0aCI6IlwvZlwvZDNmOTgyOWItZGRmOC00NDA1LTkyMzAtZTcyNWNmOWM3NGM5XC9kZ2Zzb2UxLWVjODVjOWQxLWRhZWYtNDUwZi04NDI1LWNiOGU3MzFjNGQ4Zi5wbmciLCJ3aWR0aCI6Ijw9MTE2NSJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.sl2PqvSK0UdMalX_O5edvQyR2hXzv_hSaly9ZrrWbEI",
-        "channel_url": "http://119.156.26.155:8000/play/a07i/index.m3u8"
-    },
+    
     {
         "channel_name": "Nick Jr",
         "channel_logo": "https://logos-world.net/wp-content/uploads/2021/09/Nick-Jr.-Logo-2009-present.png",
         "channel_url": "http://xtv.ooo:8080/live/98267/02727/238531.ts"
-    },
-    {
-        "channel_name": "Pogo",
-        "channel_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStx16nud8tT52HxfqE9xKWK3gutgOHL1DiKdxZZ1pP5A&s",
-        "channel_url": "http://119.156.26.155:8000/play/a05z/index.m3u8"
-    },
-    {
-        "channel_name": "Sonic",
-        "channel_logo": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2273a93f-836e-4ba7-9245-615da889cc91/d7yihfn-ef3f3a19-1aa6-4089-98cd-c16bba05b690.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIyNzNhOTNmLTgzNmUtNGJhNy05MjQ1LTYxNWRhODg5Y2M5MVwvZDd5aWhmbi1lZjNmM2ExOS0xYWE2LTQwODktOThjZC1jMTZiYmEwNWI2OTAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kjxgrk91TNKn6iiOx6S6dmpFalJWajbKMDl6HRD62L8",
-        "channel_url": "http://119.156.26.155:8000/play/a05y/index.m3u8"
     },
     
     {
@@ -289,11 +228,6 @@
         "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png",
         "channel_url": "http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/66189.ts"
     },
-    {
-        "channel_name": "Sony Pix ",
-        "channel_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaI9xALuh1AFMulMk4juwVYaWbsaLY-oUoVR31i-979ZaHZN4UeAeHUlU&s=10",
-        "channel_url": "http://212.102.34.8:9080/SonyPixHD/video.m3u8"
-    },
    
     
     {
@@ -310,12 +244,7 @@
     {
         "channel_name": "Zoom",
         "channel_logo": "https://static.toiimg.com/thumb/msid-94940731,width-1200,height-900,resizemode-4/94940731.jpg",
-        "channel_url": "http://119.156.26.155:8000/play/a003/index.m3u8"
-    },
-    {
-        "channel_name": "Zee Anmol",
-        "channel_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf9gWoQKGRV8ttNDNtN_Xl5KDofhvxkrW78Q&s",
-        "channel_url": "http://119.156.26.155:8000/play/a073/index.m3u8"
+        "channel_url": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/index.m3u8"
     },
     {
         "channel_name": "Zee Bangla",
