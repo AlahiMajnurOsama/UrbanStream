@@ -4,7 +4,15 @@
         "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD.png",
         "channel_url": "https://freedishbhai.vercel.app/Animal_Planet.m3u8"
     },
-    
+    {
+
+        "channel_name": "Ananda TV",
+
+        "channel_logo": "https://i.postimg.cc/vZJ4BY8b/ananda-tv.jpg",
+
+        "channel_url": "http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/245929.ts"
+
+    },
 
     {
 
@@ -133,7 +141,6 @@
         "channel_url": "http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/245969.ts"
 
     },
-
 {
 
         "channel_name": "Channel Europe",
@@ -143,6 +150,7 @@
         "channel_url": "https://app.ncare.live/live-orgin/channeleurope.stream/playlist.m3u8"
 
     },
+
 
     {
 
@@ -193,7 +201,36 @@
         "channel_logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOFLf39Qfvi_9CELaj2gcQpExtd9YCDzjef0IL2wwjLhUmTZEAOpvuBddUGK3kx67zwM2NGoIUR_SfXHQXpw-BsZa-rjNEFUQWIDPRJ-5LRok2oKSKex7iGmKoHK48ZwHjaaG4UALDwOLV/s280/dis.logo+final.02.png",
         "channel_url": "https://freedishbhai.vercel.app/Discovery_Bengali.m3u8"
     },
-    
+    {
+        "channel_name": "Discovery Hindi (BDIx)",
+        "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png",
+        "channel_url": "https://freedishbhai.vercel.app/Discovery_Hindi.m3u8"
+    },
+    {
+        "channel_name": "Discovery Kids (BDIx)",
+        "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Discovery_Kids_1.png",
+        "channel_url": "https://freedishbhai.vercel.app/Discovery_Kids.m3u8"
+    },
+    {
+        "channel_name": "Discovery Science (BDIx)",
+        "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Discovery_Science.png",
+        "channel_url": "https://freedishbhai.vercel.app/Discovery_Science.m3u8"
+    },
+    {
+        "channel_name": "Discovery Turbo (BDIx)",
+        "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Discovery_Turbo.png",
+        "channel_url": "https://freedishbhai.vercel.app/Discovery_Turbo.m3u8"
+    },
+
+    {
+
+        "channel_name": "Disney XD (Southeast Asian TV channel)",
+
+        "channel_logo": "https://static.wikia.nocookie.net/logopedia/images/d/dc/Disney_XD_HD_2015_II.svg/revision/latest/scale-to-width-down/250?cb=20190426131836",
+
+        "channel_url": "http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/245913.ts"
+
+    },
 
     {
 
@@ -234,7 +271,11 @@
         "channel_url": "http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/245937.ts"
 
     },
-    
+    {
+        "channel_name": "Food Network (BDIx)",
+        "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Food_Food.png",
+        "channel_url": "https://freedishbhai.vercel.app/Food_Network.m3u8"
+    },
 
     {
 
