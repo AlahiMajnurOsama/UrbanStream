@@ -16,6 +16,11 @@
         "channel_name": "9XM (480p)",
         "channel_url": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8"
     },
+    {
+        "channel_name": "Animal Planet (BDIx)",
+        "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD.png",
+        "channel_url": "https://freedishbhai.vercel.app/Animal_Planet.m3u8"
+    },
 
     {
         "channel_name": "Animal Planet",
@@ -93,16 +98,26 @@
         "channel_name": "Desi Tv",
         "channel_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/desi-tv/master.m3u8"
     },
+    
     {
-        "channel_logo": "https://i.postimg.cc/66MJpt5b/images-1.png",
-        "channel_name": "Discovery Bangla",
-        "channel_url": "https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8"
+    "channel_name": "Discovery Hindi (BDIx)",
+        "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png",
+        "channel_url": "https://freedishbhai.vercel.app/Discovery_Hindi.m3u8"
     },
-
     {
-        "channel_name": "Discovery Kids",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Discovery_Kids_Logo_2021-Presente.webp",
-        "channel_url": "http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/76723.ts"
+        "channel_name": "Discovery Kids (BDIx)",
+        "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Discovery_Kids_1.png",
+        "channel_url": "https://freedishbhai.vercel.app/Discovery_Kids.m3u8"
+    },
+    {
+        "channel_name": "Discovery Science (BDIx)",
+        "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Discovery_Science.png",
+        "channel_url": "https://freedishbhai.vercel.app/Discovery_Science.m3u8"
+    },
+    {
+        "channel_name": "Discovery Turbo (BDIx)",
+        "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Discovery_Turbo.png",
+        "channel_url": "https://freedishbhai.vercel.app/Discovery_Turbo.m3u8"
     },
 
     {
@@ -121,6 +136,11 @@
         "channel_name": "Enter 10 Movies",
         "channel_logo": "https://static.wikia.nocookie.net/logopedia/images/f/f3/Enterr10_logo.png",
         "channel_url": "http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/104202.ts"
+    },
+    {
+        "channel_name": "Food Network (BDIx)",
+        "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Food_Food.png",
+        "channel_url": "https://freedishbhai.vercel.app/Food_Network.m3u8"
     },
     {
         "channel_name": "Goldmines",
