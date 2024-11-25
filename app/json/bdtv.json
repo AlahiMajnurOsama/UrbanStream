@@ -43,6 +43,15 @@
         "channel_url": "http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/245905.ts"
 
     },
+   {
+
+        "channel_name": "Azan TV",
+
+        "channel_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB_ZBmT1iLaCn1UHxHIDjKPRjYuHz2uRheDMFsTdiTf-0PHwGm93YscG4&s=10",
+
+        "channel_url": "https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8"
+
+    }, 
 
     {
 
@@ -172,6 +181,15 @@
 
     },
 
+    {
+
+        "channel_name": "Deen TV",
+
+        "channel_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlhAyHlcabtoo8E8lavAQnwYUSKYTFE0wiNFYeH9Prxw&s",
+
+        "channel_url": "https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8"
+
+    },
     {
 
         "channel_name": "Deepto TV",
@@ -335,6 +353,24 @@
 
     },
 
+{
+
+        "channel_name": "Islam Bangla",
+
+        "channel_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO8BwkRbONmFNKxYkCDXaiR8GU8L7EONQ3lpwRrw_WaIqYFWaqr6Jhp_I&s=10",
+
+        "channel_url": "https://hideme.eu.org/live/playlist.m3u8?channel=4"
+
+    },
+    {
+
+        "channel_name": "Islam TV",
+
+        "channel_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa7lHK0AAvZzdR78bveUA3KOL9fUI3odvgBamAySgj6g9mUL1uSmAUqqU&s=10",
+
+        "channel_url": "https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8"
+
+    },
     {
 
         "channel_name": "Islamic TV",
@@ -363,7 +399,15 @@
         "channel_url": "https://app.ncare.live/live-orgin/jonmobhumitv.stream/playlist.m3u8"
 
     },
+{
 
+        "channel_name": "Kids Creation",
+
+        "channel_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdM3-EdAkF-ihSpNR0970RIua130vp-fCKz8HgegrebJkv93mgutFu0XKO&s=10",
+
+        "channel_url": "https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8"
+
+    },
 
     {
 
@@ -374,6 +418,7 @@
         "channel_url": "http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/245904.ts"
 
     },
+
 
     {
 
@@ -480,6 +525,15 @@
         "channel_logo": "https://i.imgur.com/Nbw3bKO.png",
 
         "channel_url": "http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8"
+
+    },
+    {
+
+        "channel_name": "Peace TV",
+
+        "channel_logo": "https://yt3.googleusercontent.com/ytc/AIdro_n_KEhyR70Yp4iTw0iNeJCG833MK_L1I7kmMjthArHPyjg=s900-c-k-c0x00ffffff-no-rj",
+
+        "channel_url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8"
 
     },
 
