@@ -112,9 +112,9 @@
     },
     
     {
-        "channel_name": "Enter 10 Bangla",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg",
-        "channel_url": "http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/245954.ts"
+        "channel_name": "Enterr10 Bangla",
+        "channel_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSss7AaA3z2fFU5-2nnUcCBK8JudeXDOkD1Rgp3OuxXfQ&s",
+        "channel_url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8"
     },
     
     {
@@ -174,7 +174,15 @@
         "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Maha_Movies.png",
         "channel_url": "http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/104206.ts"
     },
-    
+    {
+
+        "channel_name": "Mercy TV",
+
+        "channel_logo": "https://cdn6.aptoide.com/imgs/1/d/f/1df4b5dd73a37ffd3fdbf33bd3c61fb3_icon.png?w=128",
+
+        "channel_url": "https://5dd3981940faa.streamlock.net:443/mercytv/mercytv/playlist.m3u8"
+
+    },
     {
         "channel_name": "Nick Jr",
         "channel_logo": "https://logos-world.net/wp-content/uploads/2021/09/Nick-Jr.-Logo-2009-present.png",
