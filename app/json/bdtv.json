@@ -164,6 +164,17 @@
 
     },
 
+	
+	{
+
+        "channel_name": "CB 24",
+
+        "channel_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPlClWrsXnqhk5d12YgXqLRCwPTFmVFy0hqj2XScnh7M1OSHEJVms7h_E&s=10",
+
+        "channel_url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cb24.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjM5OjAxIFBNJmhhc2hfdmFsdWU9ZEJtK3o5WFo2MHIyNTNLczRLTlJ3Zz09JnZhbGlkbWludXRlcz00MA=="
+
+    },
+
     {
 
         "channel_name": "Channel 9 (Bangladeshi TV channel)",
@@ -183,6 +194,26 @@
         "channel_url": "http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/245969.ts"
 
     },
+
+	
+	{
+
+        "channel_name": "Channel A1",
+
+        "channel_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHghA-axG3PTV1pV4mRg4NNKVzBKLVeP6vOQ&s",
+
+        "channel_url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cha1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjUxOjE0IFBNJmhhc2hfdmFsdWU9eG1hdCtPMjNvWHR3NVRodmloSEFzdz09JnZhbGlkbWludXRlcz00MA=="
+	},
+	
+{      
+	"channel_name": "Channel Europe",
+
+        "channel_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSiw3LQx9aOT6AtDERYNLe83JgoUcINa5vFA&usqp=CAU",
+
+        "channel_url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeleurope.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjUxOjQ4IFBNJmhhc2hfdmFsdWU9aUVWZ0tYWm5GdHlIMDBQWi9HY29vZz09JnZhbGlkbWludXRlcz00MA=="
+
+    },
+
 {
 
         "channel_name": "Channel Europe",
