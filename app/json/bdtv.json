@@ -56,6 +56,16 @@
 
     {
 
+        "channel_name": "Bangla TV ( Europe)",
+
+        "channel_logo": "https://i.ibb.co/mHn2Zbm/20240826-230932.png",
+
+        "channel_url": "http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/245910.ts"
+
+    },
+
+    {
+
         "channel_name": "Banglavision",
 
         "channel_logo": "https://i.postimg.cc/yYZJ3S7x/bangla-vision-bd.png",
@@ -131,6 +141,16 @@
         "channel_url": "http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/245969.ts"
 
     },
+{
+
+        "channel_name": "Channel Europe",
+
+        "channel_logo": "https://i.ibb.co/grH4mgT/images.png",
+
+        "channel_url": "https://app.ncare.live/live-orgin/channeleurope.stream/playlist.m3u8"
+
+    },
+
 
     {
 
@@ -284,6 +304,15 @@
         "channel_logo": "https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",
 
         "channel_url": "http://103.175.242.10:8080/gtv/index.m3u8"
+
+    },
+    {
+
+        "channel_name": "Global TV HD",
+
+        "channel_logo": "https://images.toffeelive.com/images/program/11841/logo/240x240/mobile_logo_456366001662385216.png",
+
+        "channel_url": "http://starshare.live:8080/live/3569087360/6542246996/4231.ts"
 
     },
 
@@ -513,7 +542,26 @@
 
         "channel_url": "http://tv.cloudcdn.me:80/live.ts?channelId=118&uid=14505&deviceMac=00:1A:79:A7:53:75"
 
-    }
+    },
+{
+
+        "channel_name": "Times24 TV",
+
+        "channel_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHNrJajSkOI_n3YWg31q_u7SQ2ZdTBdFPlvHtR8JIIn0nbvbmsoP7LDSU&s=10",
+
+        "channel_url": "https://app.ncare.live/live-orgin/times24tv.stream/playlist.m3u8"
+
+    },
+
+{
+
+        "channel_name": "The Channel TV",
+
+        "channel_logo": "https://i.ibb.co.com/YkxVysF/20240907-135235.png",
+
+        "channel_url": "https://app.ncare.live/live-orgin/thechanneltv.stream/playlist.m3u8"
+
+}
     
 
   ]
