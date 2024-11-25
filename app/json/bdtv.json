@@ -192,8 +192,8 @@
 
     },
     {
-        "channel_name": "Discovery (BDIx)",
-        "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Discovery_Channel_English.png",
+        "channel_name": "Discovery",
+        "channel_logo": "https://cdn.shopify.com/s/files/1/0558/6413/1764/files/Discovery_Channel_Logo_Design_History_Evolution_0_1024x1024.jpg?v=1694070082",
         "channel_url": "http://bapatv.live:8080/discovery/index.m3u8"
     },
     {
@@ -443,6 +443,16 @@
 
     },
 
+    
+    {
+
+        "channel_name": "National Geography",
+
+        "channel_logo": "https://i.imgur.com/g7I8nnR.png",
+
+        "channel_url": "http://103.110.110.11:8081/live/NGC/playlist.m3u8"
+
+    },
 
     {
 
@@ -497,7 +507,7 @@
 
         "channel_name": "Rajdhani TV",
 
-        "channel_logo": "https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png",
+        "channel_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZgixQv_Sfx5EOwxqmbDMmOKzea2uu3rRc-FUxQjH3OaFDB1ls0rNW5yQ&s=10",
 
         "channel_url": "https://cdn.ncare.live/live-orgin/rajdhanitv.stream/chunks.m3u8"
 
@@ -528,7 +538,7 @@
 
         "channel_name": "SRK Tv",
 
-        "channel_logo": "https://www.somoynews.tv/_nuxt/img/somoy-logo-big.png",
+        "channel_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSttczOiDxmbOm_Zs0g4HHs_UWBEKMf8wydYQ&usqp=CAU",
 
         "channel_url": "https://cdn.ncare.live/flixhls/flixsrktv.stream/playlist.m3u8"
 
