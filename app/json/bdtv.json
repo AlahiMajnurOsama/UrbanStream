@@ -191,7 +191,7 @@
 
         "channel_logo": "https://i.postimg.cc/s2w1CY46/channel-24.png",
 
-        "channel_url": "http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/245969.ts"
+        "channel_url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjQxOjI0IFBNJmhhc2hfdmFsdWU9a1BhK1I3R3hiaHErT2oyVUdsMHN4Zz09JnZhbGlkbWludXRlcz00MA=="
 
     },
 
@@ -234,6 +234,25 @@
         "channel_url": "http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/245913.ts"
 
     },
+	{
+
+        "channel_name": "Channel S",
+
+        "channel_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxT37QeLoNwrMrzrL8NUx_sA4tyZw0hnHoqF5RhwENo_TOP2Z29HYAMAk&s=10",
+
+        "channel_url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjUyOjE5IFBNJmhhc2hfdmFsdWU9WmZtWjduWUlkdW1zMzlka25mZy9iQT09JnZhbGlkbWludXRlcz00MA=="
+
+    },
+{
+
+        "channel_name": "Channel S Uk",
+
+        "channel_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIxk_bi1E3HyR250jdF2bpdHWWl9CJqErcE3vHWJXjYeA3vGS_lsMGGMg&s=10",
+
+        "channel_url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/chsukoff.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjUyOjU0IFBNJmhhc2hfdmFsdWU9aGRGTVZ1a0RhWjRoN0htaWg1WStDdz09JnZhbGlkbWludXRlcz00MA=="
+
+    },
+
 
     {
 
