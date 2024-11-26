@@ -451,6 +451,15 @@
         "channel_url": "https://app.ncare.live/live-orgin/ibtvus.stream/playlist.m3u8"
 
     },
+	{
+
+        "channel_name": "ION TV UK",
+
+        "channel_logo": "http://ujm.from-in.com/panel/imageicon/69fbad8.png",
+
+        "channel_url": "http://tv.cloudcdn.me:80/live.ts?channelId=44153&uid=4166&deviceMac=00:1A:79:F3:9F:F5"
+
+    },
 
 {
 
@@ -607,6 +616,17 @@
 
     },
 
+{
+
+        "channel_name": "NRB ",
+
+        "channel_logo": "http://ujm.from-in.com/panel/imageicon/e2123f5.png",
+
+        "channel_url": "http://tv.cloudcdn.me:80/live.ts?channelId=74625&uid=4166&deviceMac=00:1A:79:F3:9F:F5"
+
+    },
+
+
     
     {
 
@@ -627,6 +647,25 @@
         "channel_url": "http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/245903.ts"
 
     },
+	{
+
+        "channel_name": "News Time Bangla",
+
+        "channel_logo": "http://ujm.from-in.com/panel/imageicon/c71fdcc.png",
+
+        "channel_url": "http://tv.cloudcdn.me:80/live.ts?channelId=47440&uid=4166&deviceMac=00:1A:79:F3:9F:F5"
+
+    },
+
+	{
+
+        "channel_name": "News 18 Bangla",
+
+        "channel_logo": "https://i.ibb.co/tX42wVs/images-5.png",
+
+        "channel_url": "https://app.ncare.live/live-orgin/ibtvus.stream/playlist.m3u8"
+
+    },
     
     {
 
@@ -645,6 +684,16 @@
         "channel_logo": "https://i.postimg.cc/FHx01Jxc/ntv.png",
 
         "channel_url": "http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/245924.ts"
+
+    },
+
+	{
+
+        "channel_name": "NTV UK Bangla",
+
+        "channel_logo": "http://ujm.from-in.com/panel/imageicon/cf7136f.png",
+
+        "channel_url": "http://tv.cloudcdn.me:80/live.ts?channelId=110&uid=4166&deviceMac=00:1A:79:F3:9F:F5"
 
     },
 {
