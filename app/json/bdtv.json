@@ -125,6 +125,17 @@
 
     },
 
+
+	{
+
+        "channel_name": "Bangla 21",
+
+        "channel_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJSQej8RsdvS0rixlNSlJMfetOtepVjXughQ&s",
+
+        "channel_url": "https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bangla21tv000889956-sg.stream/playlist.m3u8"
+
+    },
+
     {
 
         "channel_name": "Banglavision",
@@ -392,6 +403,17 @@
         "channel_url": "http://opplextv.cyou:8080/live/naqeebkhan/naqeebkhan123/245937.ts"
 
     },
+
+
+	{
+
+        "channel_name": "FB TV ",
+
+        "channel_logo": "https://i.imgur.com/ag0z5T3.jpg",
+
+        "channel_url": "http://162.244.81.200:1935/live/livestream/playlist.m3u8"
+
+    },
     
 
     {
@@ -536,6 +558,17 @@
 
     },
 
+{
+
+        "channel_name": "Millennium TV ",
+
+        "channel_logo": "https://millenniumtv.org/wp-content/uploads/2021/06/Icon-512.png",
+
+        "channel_url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/live-orgin/millenniumtv-odr-up2.stream/chunks.m3u8"
+
+    },
+
+
 
     {
 
@@ -606,6 +639,16 @@
 
     },
 
+	{
+
+        "channel_name": "Nagorik TV Talk Show",
+
+        "channel_logo": "https://nagoriktv.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.471164d3.jpg&w=1920&q=75",
+
+        "channel_url": "http://tv.cloudcdn.me:80/live.ts?channelId=44155&uid=16068&deviceMac=00:1A:79:ED:10:29"
+
+    },
+
     {
 
         "channel_name": "NAN TV(TV channel)",
@@ -618,11 +661,21 @@
 
 {
 
-        "channel_name": "NRB ",
+        "channel_name": "NRB TV",
 
         "channel_logo": "http://ujm.from-in.com/panel/imageicon/e2123f5.png",
 
         "channel_url": "http://tv.cloudcdn.me:80/live.ts?channelId=74625&uid=4166&deviceMac=00:1A:79:F3:9F:F5"
+
+    },
+
+	{
+
+        "channel_name": "Nandan TV",
+
+        "channel_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBcCig8liSTxxTOglj7-IFmKKyTij_LSRCwA&s",
+
+        "channel_url": "https://weblive.nandansyst.com/hls/nandan_src/index.m3u8"
 
     },
 
@@ -664,6 +717,16 @@
         "channel_logo": "https://i.ibb.co/tX42wVs/images-5.png",
 
         "channel_url": "https://app.ncare.live/live-orgin/ibtvus.stream/playlist.m3u8"
+
+    },
+
+	{
+
+        "channel_name": "Nexus TV",
+
+        "channel_logo": "https://i.postimg.cc/ncJhpngQ/Nexus-Television-Logo.png",
+
+        "channel_url": "http://tv.cloudcdn.me:80/live.ts?channelId=90300&uid=8069&deviceMac=00:1A:79:4C:90:E3"
 
     },
     
@@ -804,6 +867,17 @@
         "channel_url": "https://app.ncare.live/live-orgin/thechanneltv.stream/playlist.m3u8"
 
 },
+
+
+	{
+
+        "channel_name": "Varendra TV",
+
+        "channel_logo": "https://www.jagobd.com/wp-content/uploads/2017/01/varendro-tv.jpg?x13834",
+
+        "channel_url": "https://app.ncare.live/streams/varendratv.stream/playlist.m3u8"
+
+    },
 	{
 
         "channel_name": "Zodiac TV",
